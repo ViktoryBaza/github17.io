@@ -1,0 +1,13 @@
+.image {
+	position: relative;
+	width: 100%; 
+}
+
+.printBlock {
+	position: absolute;
+	top: 200px;
+	left: 190px;
+	width: 100%;
+    color:aliceblue;
+    white-space: pre-wrap;
+}
